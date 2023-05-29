@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/Users/Miles/Documents/GitHub/game-golfyou/GolfYou/Content/badend.png</File>
+    <File>/Users/Miles/Documents/GitHub/game-golfyou/GolfYou/Content/File.spritefont</File>
+    <File>/Users/Miles/Documents/GitHub/game-golfyou/GolfYou/Content/Levels/LevelMaterials/back.png</File>
+    <File>/Users/Miles/Documents/GitHub/game-golfyou/GolfYou/Content/Levels/LevelMaterials/GolfFlag.png</File>
+    <File>/Users/Miles/Documents/GitHub/game-golfyou/GolfYou/Content/Levels/LevelMaterials/GUI.png</File>
+    <File>/Users/Miles/Documents/GitHub/game-golfyou/GolfYou/Content/Levels/LevelMaterials/tileset.png</File>
+    <File>/Users/Miles/Documents/GitHub/game-golfyou/GolfYou/Content/MenuText.spritefont</File>
+    <File>/Users/Miles/Documents/GitHub/game-golfyou/GolfYou/Content/Sprites/Arrow.png</File>
+    <File>/Users/Miles/Documents/GitHub/game-golfyou/GolfYou/Content/Sprites/Bars/BarAll.png</File>
+    <File>/Users/Miles/Documents/GitHub/game-golfyou/GolfYou/Content/Sprites/ClubOptions.png</File>
+    <File>/Users/Miles/Documents/GitHub/game-golfyou/GolfYou/Content/Sprites/EnemyLeft.png</File>
+    <File>/Users/Miles/Documents/GitHub/game-golfyou/GolfYou/Content/Sprites/EnemyRight.png</File>
+    <File>/Users/Miles/Documents/GitHub/game-golfyou/GolfYou/Content/Sprites/golf.png</File>
+    <File>/Users/Miles/Documents/GitHub/game-golfyou/GolfYou/Content/Sprites/GolfFlipped.png</File>
+    <File>/Users/Miles/Documents/GitHub/game-golfyou/GolfYou/Content/Sprites/HandsPutting.png</File>
+    <File>/Users/Miles/Documents/GitHub/game-golfyou/GolfYou/Content/Sprites/Head.png</File>
+    <File>/Users/Miles/Documents/GitHub/game-golfyou/GolfYou/Content/Sprites/PlayerPuttingAll.png</File>
+    <File>/Users/Miles/Documents/GitHub/game-golfyou/GolfYou/Content/Sprites/PlayerPuttingAllFlipped.png</File>
+    <File>/Users/Miles/Documents/GitHub/game-golfyou/GolfYou/Content/Sprites/PlayerPuttingAngle0.png</File>
+    <File>/Users/Miles/Documents/GitHub/game-golfyou/GolfYou/Content/Sprites/PlayerPuttingAngle1.png</File>
+    <File>/Users/Miles/Documents/GitHub/game-golfyou/GolfYou/Content/Sprites/PlayerPuttingAngle2.png</File>
+    <File>/Users/Miles/Documents/GitHub/game-golfyou/GolfYou/Content/Sprites/PlayerPuttingAngle3.png</File>
+    <File>/Users/Miles/Documents/GitHub/game-golfyou/GolfYou/Content/Sprites/PlayerPuttingAngle4.png</File>
+    <File>/Users/Miles/Documents/GitHub/game-golfyou/GolfYou/Content/Sprites/PlayerPuttingAngle5.png</File>
+    <File>/Users/Miles/Documents/GitHub/game-golfyou/GolfYou/Content/Sprites/Walkanim.png</File>
+    <File>/Users/Miles/Documents/GitHub/game-golfyou/GolfYou/Content/Sprites/WalkanimFlipped.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
