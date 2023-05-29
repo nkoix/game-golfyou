@@ -1,4 +1,4 @@
-# game-golfyou
+# golfyou
 
 *Collaborators*:
 + Will L (wel2vh@virginia.edu)
