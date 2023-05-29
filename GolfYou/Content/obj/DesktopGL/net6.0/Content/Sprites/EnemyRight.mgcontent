@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>/Users/Miles/Documents/GitHub/game-golfyou/GolfYou/Content/Sprites/EnemyRight.png</SourceFile>
-  <SourceTime>2023-04-30T14:04:21.1695285-04:00</SourceTime>
-  <DestFile>/Users/Miles/Documents/GitHub/game-golfyou/GolfYou/Content/bin/DesktopGL/Content/Sprites/EnemyRight.xnb</DestFile>
-  <DestTime>2023-04-30T14:04:38.1771026-04:00</DestTime>
+  <SourceFile>/Users/Miles/Documents/GitHub/golfyou/GolfYou/Content/Sprites/EnemyRight.png</SourceFile>
+  <SourceTime>2023-04-30T11:04:21.1695284-07:00</SourceTime>
+  <DestFile>/Users/Miles/Documents/GitHub/golfyou/GolfYou/Content/bin/DesktopGL/Content/Sprites/EnemyRight.xnb</DestFile>
+  <DestTime>2023-05-28T17:23:41.0993625-07:00</DestTime>
   <Importer>TextureImporter</Importer>
-  <ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime>
+  <ImporterTime>2022-07-26T04:44:56-07:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
-  <ProcessorTime>2022-07-26T07:44:56-04:00</ProcessorTime>
+  <ProcessorTime>2022-07-26T04:44:56-07:00</ProcessorTime>
   <Parameters>
     <Key>ColorKeyColor</Key>
     <Value>255,0,255,255</Value>

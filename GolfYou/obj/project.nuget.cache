@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nXs5yShMaiCkzk4CpBET9M6ZINA7W1AdqCVec5OOZBGbnGXNNl5ZsRAZlLtnKlXWq2PJC2AGZI6DfE4NQF33dg==",
+  "dgSpecHash": "PcL/aEeEKZF/Mv71bHpoMC0lH1HV/RoAuok49Bz3xgz2lvFOfeLL1nSGBk7O5XkhTCsNCyZUQz9oASdl7wBSiQ==",
   "success": true,
-  "projectFilePath": "/Users/Miles/Documents/GitHub/game-golfyou/GolfYou/GolfYou.csproj",
+  "projectFilePath": "/Users/Miles/Documents/GitHub/golfyou/GolfYou/GolfYou.csproj",
   "expectedPackageFiles": [
     "/Users/Miles/.nuget/packages/monogame.content.builder.task/3.8.1.303/monogame.content.builder.task.3.8.1.303.nupkg.sha512",
     "/Users/Miles/.nuget/packages/monogame.framework.desktopgl/3.8.1.303/monogame.framework.desktopgl.3.8.1.303.nupkg.sha512",

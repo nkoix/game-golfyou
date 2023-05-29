@@ -134,11 +134,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Miles/Documents/GitHub/game-golfyou/GolfYou/GolfYou.csproj",
+      "projectUniqueName": "/Users/Miles/Documents/GitHub/golfyou/GolfYou/GolfYou.csproj",
       "projectName": "GolfYou",
-      "projectPath": "/Users/Miles/Documents/GitHub/game-golfyou/GolfYou/GolfYou.csproj",
+      "projectPath": "/Users/Miles/Documents/GitHub/golfyou/GolfYou/GolfYou.csproj",
       "packagesPath": "/Users/Miles/.nuget/packages/",
-      "outputPath": "/Users/Miles/Documents/GitHub/game-golfyou/GolfYou/obj/",
+      "outputPath": "/Users/Miles/Documents/GitHub/golfyou/GolfYou/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/Miles/.nuget/NuGet/NuGet.Config"

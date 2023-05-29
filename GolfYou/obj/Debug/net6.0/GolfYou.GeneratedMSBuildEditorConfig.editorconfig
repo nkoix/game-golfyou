@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GolfYou
-build_property.ProjectDir = /Users/Miles/Documents/GitHub/game-golfyou/GolfYou/
+build_property.ProjectDir = /Users/Miles/Documents/GitHub/golfyou/GolfYou/
